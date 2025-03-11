@@ -20,7 +20,7 @@ def update():
 
 
 window = Tk()
-window.geometry('230x140')
+window.geometry('255x140')
 window.resizable(width=False, height=False)
 window.title('iClock v1')
 
