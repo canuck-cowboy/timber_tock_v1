@@ -1,4 +1,4 @@
-# Iron Clock V1
+# Timber Tock V1
 
 A basic clock program built using Python.
 
